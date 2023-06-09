@@ -13,5 +13,5 @@ Note that for assignment #2, there is a bonus point but the maximum point will s
 | 4  | NoSQL | 6/6 |
 | 5  | Data Mining/Machine Learning  | 6/6 |
 
-## [Personal Note]()
+## [Personal Note](https://github.com/AsunaSS/CSCI-585/releases/download/Note/CSCI585_Note.pdf)
 This PDF records all my class notes, which contains my personal understanding of all key knowledge of this course. It summarizes all the knowledge that the final exam may cover. You might get a good grade if you read it carefully. My final exam score was 38.25/40, so you can trust this document:smiley:. (*Most of the text inside is in Chinese, sorry for the non-Chinese students*)
