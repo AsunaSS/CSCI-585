@@ -4,7 +4,7 @@
 The link above leads to the official website of the courses provided by Saty. It includes **syllabus**, **ppt**, **homework and exam descriptions**, and **extra content**.
 
 ## Assignments(30%)
-Note that for assignment #2, there is a bonus point but the maximum point will still be 6.
+Note that for assignment #2, there is a bonus point but the maximum point will still be 6. I also uploaded the rubrics for each assignment except for assignment #5. 
 | No. | Related Topic | Score |
 | ------------- | ------------- | -------------|
 | 1  | (E)ER diagram  | 6/6 |
