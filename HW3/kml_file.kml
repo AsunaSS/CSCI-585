@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Style id="z1">
+<IconStyle><Icon><href>http://www.google.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle>
+</Style>
+
+<Folder>
+<name>Viterbi</name>
+<Placemark><name>ISE Dept</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.29026708987136,34.02014906126706</coordinates></Point>
+</Placemark>
+<Placemark><name>CS Dept</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28917994174948,34.01942877567757</coordinates></Point>
+</Placemark>
+</Folder>
+
+<Folder>
+<name>Dornsife</name>
+<Placemark><name>Neuroscience</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2880292252265,34.02059684394024</coordinates></Point>
+</Placemark>
+<Placemark><name>Economics Dept</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.29091029621178,34.02207552428271</coordinates></Point>
+</Placemark>
+</Folder>
+
+<Folder>
+<name>CinematicArts</name>
+<Placemark><name>Media Arts</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28732821170081,34.023758447760734</coordinates></Point>
+</Placemark>
+<Placemark><name>Digital Arts</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28642247250633,34.023757626199945</coordinates></Point>
+</Placemark>
+</Folder>
+
+<Folder>
+<name>Annenberg</name>
+<Placemark><name>Communication</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28663963835527,34.02209137103895</coordinates></Point>
+</Placemark>
+<Placemark><name>Journalism</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28702177479572,34.020489493480305</coordinates></Point>
+</Placemark>
+</Folder>
+
+<Folder>
+<name>Architecture</name>
+<Placemark><name>Architecture</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28810261573483,34.01857981461483</coordinates></Point>
+</Placemark>
+<Placemark><name>Landscape</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28811278023555,34.01961282378805</coordinates></Point>
+</Placemark>
+</Folder>
+
+<Folder>
+<name>Marshall</name>
+<Placemark><name>Accounting</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28579142752073,34.01930392781013</coordinates></Point>
+</Placemark>
+<Placemark><name>AI for Business</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28523734595467,34.01854041966993</coordinates></Point>
+</Placemark>
+</Folder>
+
+<Placemark><name>Home</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28801634279846,34.03205388524771</coordinates></Point>
+</Placemark>
+
+<Placemark>
+ <name>Convex Hull</name> 
+ <Polygon> <outerBoundaryIs>  <LinearRing>  
+  <coordinates>
+  -118.28523734595467,34.01854041966993,0.
+  -118.28810261573483,34.01857981461483,0.
+  -118.29026708987136,34.02014906126706,0.
+  -118.29091029621178,34.02207552428271,0.
+  -118.28801634279846,34.03205388524771,0.
+  -118.28523734595467,34.01854041966993,0.
+  </coordinates>
+ </LinearRing> </outerBoundaryIs> </Polygon>
+  <Style> 
+  <PolyStyle>  
+   <color>#a0ff00ff</color>
+  <outline>0</outline>
+  </PolyStyle> 
+ </Style>
+</Placemark>
+
+<Folder>
+<name>4 nearest neighbors</name>
+<Placemark>
+  <LineString>
+  <name>1</name>
+    <extrude>1</extrude>
+    <coordinates>-118.28801634279846,34.03205388524771,0. -118.28732821170081,34.023758447760734,0.</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <LineString>
+  <name>2</name>
+    <extrude>1</extrude>
+    <coordinates>-118.28801634279846,34.03205388524771,0. -118.28642247250633,34.023757626199945,0.</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <LineString>
+  <name>3</name>
+    <extrude>1</extrude>
+    <coordinates>-118.28801634279846,34.03205388524771,0. -118.28663963835527,34.02209137103895,0.</coordinates>
+  </LineString>
+</Placemark>
+<Placemark>
+  <LineString>
+  <name>4</name>
+    <extrude>1</extrude>
+    <coordinates>-118.28801634279846,34.03205388524771,0. -118.29091029621178,34.02207552428271,0.</coordinates>
+  </LineString>
+</Placemark>
+</Folder>
+
+</Document>
+</kml>
